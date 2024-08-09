@@ -1,0 +1,3 @@
+[submodule "GoogleScript/openskill.js"]
+	path = GoogleScript/openskill.js
+	url = git@github.com:philihp/openskill.js.git
